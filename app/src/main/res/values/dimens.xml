@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_padding">10dp</dimen>
+    <dimen name="item_margin">2dp</dimen>
+    <dimen name="item_padding">12dp</dimen>
+    <dimen name="image_size">140dp</dimen>
+    <dimen name="header_size">22sp</dimen>
+    <dimen name="item_title_size">18sp</dimen>
+    <dimen name="item_description_size">14sp</dimen>
+</resources>

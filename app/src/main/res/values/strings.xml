@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">laba5</string>
+    <string name="screen_title">Моя лента</string>
+    <string name="student_name">ФИО: Таран Елена </string>
+    <string name="list_image_description">Изображение элемента списка</string>
+
+</resources>
